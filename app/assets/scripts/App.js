@@ -1,0 +1,1 @@
+alert("I don't like hello text.");
