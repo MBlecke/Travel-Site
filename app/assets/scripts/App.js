@@ -1,1 +1,1 @@
-alert("I don't like REALLY REALLY hello text.")
+import '../styles/styles.css'
