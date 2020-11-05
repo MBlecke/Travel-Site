@@ -12,7 +12,7 @@ class MobileMenu {
 
     toggleTheMenu() {
         this.menuContent.classList.toggle("site-header__menu-content--is-visible")
-        this.siteHeader.classList.toggle("site-header__is-expanded")
+        this.siteHeader.classList.toggle("site-header--is-expanded")
     }
 }
 
